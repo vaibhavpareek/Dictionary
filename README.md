@@ -1,2 +1,2 @@
 # Dictionary
-A dictionary where you can add new words ,or modify names and meaning of diffrent words.i have coded this with the help of language C.
+A dictionary is a collection of words with their meanings.where you can add new words ,or modify names and meaning of diffrent words.the technology used to code this is programming language C.
